@@ -1,5 +1,7 @@
 # Sample Python app for Azure Pipelines docs
 
+[![Build Status](https://dev.azure.com/shaunoates/test_python/_apis/build/status/shaun-o.azure_dev_python?branchName=master)](https://dev.azure.com/shaunoates/test_python/_build/latest?definitionId=1?branchName=master)
+
 For information on how to use this repository, see [Python](https://docs.microsoft.com/azure/devops/pipelines/languages/python).
 
 | Example | Build status |
